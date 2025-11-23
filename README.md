@@ -52,7 +52,7 @@ Senior Consultant & Software Architect with **21+ years** of experience designin
 ## 📈 Notable Achievements
 
 - **21+ years** of progressive experience in software architecture
-- Successfully delivered **100+ projects** for Fortune 500 clients
+- Successfully delivered **20+ projects** for Fortune 500 clients
 - Led **cloud-native transformations** across multiple industries
 - Expertise in **cross-regional projects** (Middle East & USA)
 - Proven track record in **mission-critical system design**
