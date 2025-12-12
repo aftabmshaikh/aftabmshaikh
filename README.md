@@ -74,7 +74,7 @@ I'm always interested in discussing:
 - Mentorship and knowledge sharing
 
 **Reach out through:**
-- [LinkedIn](http://linkedin.com/in/aftab-shaikh)
+- [LinkedIn](https://www.linkedin.com/in/aftab-shaikh-7130175)
 - [Email](mailto:NA)
 
 ---
