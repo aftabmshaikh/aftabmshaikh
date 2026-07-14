@@ -4,7 +4,7 @@
 
 ## 👨‍💻 Professional Overview
 
-Senior Consultant & Software Architect with **21+ years** of experience designing and delivering scalable, mission-critical systems for Fortune 500 clients across the Middle East and USA. Expertise in full-stack development, cloud-native transformations, and emerging technologies including AI/ML and Generative AI.
+Senior Consultant & Software Architect with **22+ years** of experience designing and delivering scalable, mission-critical systems for Fortune 500 clients across the Middle East and USA. Expertise in full-stack development, cloud-native transformations, and emerging technologies including AI/ML and Generative AI.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aftab-shaikh-7130175)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:NA)
@@ -75,6 +75,7 @@ I'm always interested in discussing:
 
 **Reach out through:**
 - [LinkedIn](https://www.linkedin.com/in/aftab-shaikh-7130175)
+- [Blog](https://dzone.com/users/5158012/aftabmshaikh.html)
 - [Email](mailto:NA)
 
 ---
