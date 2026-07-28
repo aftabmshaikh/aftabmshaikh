@@ -1,7 +1,5 @@
 # Aftab Shaikh | Sr Consultant & Software Architect
 
-![Profile Banner](https://via.placeholder.com/1200x300/0D1117/FFFFFF?text=Architecting+Scalable+Solutions+for+Fortune+500+Clients)
-
 ![Profile Banner](https://yt3.googleusercontent.com/1emGOyGjzQ8Rcx0Bsr0Zfa1gPdreMoV1A6VKqDko_zp6hRENsXzjF9bwh0yA0eioKVao30WhiA=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 
 ## 👨‍💻 Professional Overview
