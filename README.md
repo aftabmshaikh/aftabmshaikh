@@ -76,6 +76,7 @@ I'm always interested in discussing:
 **Reach out through:**
 - [LinkedIn](https://www.linkedin.com/in/aftab-shaikh-7130175)
 - [Blog](https://dzone.com/users/5158012/aftabmshaikh.html)
+- [YouTube](https://www.youtube.com/@AftabTheArchitect)
 - [Email](mailto:NA)
 
 ---
