@@ -2,6 +2,8 @@
 
 ![Profile Banner](https://via.placeholder.com/1200x300/0D1117/FFFFFF?text=Architecting+Scalable+Solutions+for+Fortune+500+Clients)
 
+![Profile Banner](https://yt3.googleusercontent.com/1emGOyGjzQ8Rcx0Bsr0Zfa1gPdreMoV1A6VKqDko_zp6hRENsXzjF9bwh0yA0eioKVao30WhiA=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
+
 ## 👨‍💻 Professional Overview
 
 Senior Consultant & Software Architect with **22+ years** of experience designing and delivering scalable, mission-critical systems for Fortune 500 clients across the Middle East and USA. Expertise in full-stack development, cloud-native transformations, DevOps & CI/CD and emerging technologies including AI/ML and Generative AI.
